@@ -10,7 +10,6 @@
       href="https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css"
       rel="stylesheet"
     />
-    <link rel="shortcut icon" type="image/jpg" href="assets/img/favicon.png" />
     <title>My Portfolio</title>
   </head>
   <body>
@@ -81,7 +80,7 @@
           </div>
         </div>
       </section>
-      <br /><br />
+      <br />
       <!--  ===== SKILLS =====  -->
       <section class="skills section" id="skills">
         <h2 class="section-title">Skills</h2>
@@ -143,7 +142,7 @@
           </div>
         </div>
       </section>
-      <br /><br />
+      <br />
       <!--  ===== GALLERY =====  -->
       <section class="gallery section" id="gallery">
         <h2 class="section-title">Gallery</h2>
@@ -168,7 +167,7 @@
           </div>
         </div>
       </section>
-      <br /><br />
+      <br />
       <!--  ===== CONTACT =====  -->
       <section class="contact section" id="contact">
         <h2 class="section-title">Contact</h2>
@@ -187,7 +186,7 @@
           </form>
         </div>
       </section>
-      <br /><br />
+      <br />
     </main>
     <!--  ===== FOOTER =====  -->
     <footer class="footer">
